@@ -1,7 +1,7 @@
 
 ## Deployment
 
-Your project is live at:
+The project is live at:
 
 **[https://vercel.com/raras-projects-c09efb7e/v0-calendar-app](https://vercel.com/raras-projects-c09efb7e/v0-calendar-app)**
 
